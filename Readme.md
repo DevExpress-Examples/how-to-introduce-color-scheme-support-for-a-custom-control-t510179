@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomRibbonItem.cs](./CS/CustomRibbonItem.cs) (VB: [CustomRibbonItem.vb](./VB/CustomRibbonItem.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/MainPage.xaml))
+* [MainViewModel.cs](./CS/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/MainViewModel.vb))
+* [RichEditEx.cs](./CS/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/RichEditEx.vb))
+* [ThemeFriendlyNameConverter.cs](./CS/ThemeFriendlyNameConverter.cs) (VB: [ThemeFriendlyNameConverter.vb](./VB/ThemeFriendlyNameConverter.vb))
+* [generic.xaml](./CS/Themes/generic.xaml) (VB: [generic.xaml](./VB/Themes/generic.xaml))
+<!-- default file list end -->
 # How to introduce Color Scheme support for a custom control
 
 
