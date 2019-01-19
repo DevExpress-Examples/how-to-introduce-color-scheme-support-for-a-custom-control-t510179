@@ -13,8 +13,8 @@
             <SolidColorBrush x:Key="RibbonCustomItemForegroundHoverBrush" Core:ColorKey.Link="RibbonButtonColors.ForegroundHovered.Default" />
             <SolidColorBrush x:Key="RibbonCustomItemForegroundPressedBrush" Core:ColorKey.Link="RibbonButtonColors.ForegroundPressed.Default" />
             <SolidColorBrush x:Key="RibbonCustomItemIconForegroundBrush" Core:ColorKey.Link="RibbonButtonColors.Foreground.Default" />
-            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundHoverBrush" Core:ColorKey.Link="RibbonButtonColors.IconForegroundHovered.Default" />
-            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundPressedBrush" Core:ColorKey.Link="RibbonButtonColors.IconForegroundPressed.Default" />
+            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundHoverBrush" Core:ColorKey.Link="RibbonButtonColors.IconFillHovered.Default" />
+            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundPressedBrush" Core:ColorKey.Link="RibbonButtonColors.IconFillPressed.Default" />
         </ResourceDictionary>
         <ResourceDictionary x:Key="Light">
             <SolidColorBrush x:Key="RibbonCustomItemBorderBrush" Core:ColorKey.Link="RibbonButtonColors.BorderBrush.Light" />
@@ -25,8 +25,8 @@
             <SolidColorBrush x:Key="RibbonCustomItemForegroundHoverBrush" Core:ColorKey.Link="RibbonButtonColors.ForegroundHovered.Light" />
             <SolidColorBrush x:Key="RibbonCustomItemForegroundPressedBrush" Core:ColorKey.Link="RibbonButtonColors.ForegroundPressed.Light" />
             <SolidColorBrush x:Key="RibbonCustomItemIconForegroundBrush" Core:ColorKey.Link="RibbonButtonColors.Foreground.Light" />
-            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundHoverBrush" Core:ColorKey.Link="RibbonButtonColors.IconForegroundHovered.Light" />
-            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundPressedBrush" Core:ColorKey.Link="RibbonButtonColors.IconForegroundPressed.Light" />
+            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundHoverBrush" Core:ColorKey.Link="RibbonButtonColors.IconFillHovered.Light" />
+            <SolidColorBrush x:Key="RibbonCustomItemIconForegroundPressedBrush" Core:ColorKey.Link="RibbonButtonColors.IconFillPressed.Light" />
         </ResourceDictionary>
     </ResourceDictionary.ThemeDictionaries>
     
